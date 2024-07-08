@@ -1,0 +1,59 @@
+baseURL = 'https://deependujha.xyz/'
+languageCode = 'en-us'
+title = 'Deependu Jha'
+theme = 'archie'
+copyright = "© Deependu Jha"
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+paginate=5 # articles per page
+
+[params]
+	mode="toggle" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "I'm Deependu, a Deep Learning Engineer. I write blogs related to Deep Learning, Cloud Computing, and Rust."
+	mathjax = true # enable MathJax support
+	katex = true # enable KaTeX support
+	favicon = "/favicon.ico"
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/deependujha"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/deependu__"
+
+[[params.social]]
+name = "mail"
+icon = "mail"
+url = "mailto:deependujha21@gmail.com"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
