@@ -1,4 +1,4 @@
-baseURL = 'https://deependujha.xyz/'
+baseURL = 'https://deependujha.github.io/portfolio-and-blogs-website/' # 'https://deependujha.xyz/'
 languageCode = 'en-us'
 title = 'Deependu Jha'
 theme = 'archie'
