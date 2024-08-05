@@ -1,9 +1,9 @@
 +++
-title = 'LLM Tokenization'
-description = "In this blog, we will discuss the tokenization of LLMs. We will also discuss the importance of tokenization in LLMs."
+title = 'Demo blog'
+description = "Examples on how to do something while writing a blog (like adding an image, etc.)"
 date = 2024-07-08T18:24:32+05:30
 draft = false
-tags = ["deep learning", "LLM", "tokenization"]
+tags = []
 +++
 
 ## Introduction
