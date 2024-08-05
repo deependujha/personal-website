@@ -12,6 +12,8 @@ In this blog, we will discuss the tokenization of LLMs. We will also discuss the
 
 [Theo youtube video](https://youtu.be/Cnu7LNXN7fQ?si=FiZdcYSS0NcG57BU)
 
+{{< figure src="/Ghosts.jpg" title="Ghost" >}}
+
 ## Images
 
 {{< figure src="https://images.unsplash.com/photo-1560032779-0a8809186efd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" title="Dave Herring" >}}
